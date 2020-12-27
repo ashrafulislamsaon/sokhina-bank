@@ -1,0 +1,28 @@
+*{margin:0; padding:0}
+
+body{
+    padding: 100px;
+}
+.login-form{
+    padding:50px;
+    box-shadow: 1px 1px 7px #80808082;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+#transaction-area{
+    display:none;
+}
+.trans{
+    color:#fff;
+    padding:20px 20px;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: #0fc7b6;
+}
+.widthdraw{
+    background-color: #F44336;
+}
+.balance{
+    background-color:#FF9800;
+}
